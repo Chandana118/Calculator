@@ -21,7 +21,7 @@ calculator/
 
 ## ▶️ How to Run
 1. Clone the repository
-   git clone https://github.com/your-username/python-calculator.git
+   git clone https://github.com/Chandana118/python-calculator.git
 
 2. Navigate to the project folder
    cd python-calculator
